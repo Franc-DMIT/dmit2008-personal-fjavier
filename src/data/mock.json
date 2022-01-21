@@ -53,7 +53,7 @@
       },
 
     "products": {
-        "used": {
+        "new": {
             "-MtxaXdCc45_uiy2Vc6E": {
                 "id": "7d56badd-4bee-4aab-88e1-f5b1293a663a",
                 "fullName": "Alyse Summersby",
@@ -66,7 +66,7 @@
               }
         },
 
-        "new": {
+        "refurbished": {
             "-MtxaXdCc45_uiy2Vc6E": {
                 "id": "7d56badd-4bee-4aab-88e1-f5b1293a663a",
                 "fullName": "Alyse Summersby",
@@ -81,7 +81,8 @@
     },
 
     "billing": {
-        "-MtxaXdCc45_uiy2Vc6E": {
+        "address": {
+            "-MtxaXdCc45_uiy2Vc6E": {
             "id": "7d56badd-4bee-4aab-88e1-f5b1293a663a",
             "fullName": "Alyse Summersby",
             "avatar": "https://robohash.org/quisquamdoloreserror.png?size=500x500&set=set1"
@@ -91,5 +92,6 @@
             "fullName": "Kelly Sivess",
             "avatar": "https://robohash.org/omnisodioquia.png?size=500x500&set=set1"
           }
+        }
     }
 }
