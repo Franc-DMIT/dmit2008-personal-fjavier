@@ -1,0 +1,95 @@
+{
+    "users": {
+        "-MtxaXdCc45_uiy2Vc6E": {
+          "id": "7d56badd-4bee-4aab-88e1-f5b1293a663a",
+          "fullName": "Alyse Summersby",
+          "avatar": "https://robohash.org/quisquamdoloreserror.png?size=500x500&set=set1"
+        },
+        "-MtxaXdD7gNrifhhdlua": {
+          "id": "652b1cb5-f152-4f0c-a4ea-ce1331bdafc6",
+          "fullName": "Kelly Sivess",
+          "avatar": "https://robohash.org/omnisodioquia.png?size=500x500&set=set1"
+        },
+        "-MtxaXdFGbZtPle4kyYX": {
+          "id": "2315e0ed-375b-4420-892f-ccc3733dcd98",
+          "fullName": "Felice Broadley",
+          "avatar": "https://robohash.org/sedvelitet.png?size=500x500&set=set1"
+        },
+        "-MtxaXdGF2Y9gMC81joZ": {
+          "id": "01fe485e-11b3-4d03-bfff-ae1c04e16897",
+          "fullName": "Tally Grishkov",
+          "avatar": "https://robohash.org/voluptateillumet.png?size=500x500&set=set1"
+        },
+        "-MtxaXdIHjSC86QD5VDj": {
+          "id": "a9ed70c4-fd4f-4157-9781-515035d980cc",
+          "fullName": "Amie Broster",
+          "avatar": "https://robohash.org/etnampraesentium.png?size=500x500&set=set1"
+        },
+        "-MtxaXdJifDqT-r-tYIW": {
+          "id": "1653db34-ddd0-4748-a010-4b968ee8dc3e",
+          "fullName": "Donal Oneile",
+          "avatar": "https://robohash.org/sedconsequaturatque.png?size=500x500&set=set1"
+        },
+        "-MtxaXdLuUZIlPduwirX": {
+          "id": "2a77f4f1-122d-4b53-a6aa-25d6d2382131",
+          "fullName": "Andriana Karpushkin",
+          "avatar": "https://robohash.org/velitomniset.png?size=500x500&set=set1"
+        },
+        "-MtxaXdMO8BC_JjsJG4a": {
+          "id": "1ae47ba7-ac9d-4326-b7e4-34d372f13f1e",
+          "fullName": "Vittoria Ellif",
+          "avatar": "https://robohash.org/iniustoqui.png?size=500x500&set=set1"
+        },
+        "-MtxaXdN7354ZrsxImmm": {
+          "id": "27bab6d9-eea1-41d3-8da0-7dd4b440e511",
+          "fullName": "Reggie Slate",
+          "avatar": "https://robohash.org/vitaenequeporro.png?size=500x500&set=set1"
+        },
+        "-MtxaXdPg7vFH5ofqikF": {
+          "id": "2b5e7432-1012-4cd2-bc91-89c57c44b9ed",
+          "fullName": "Giralda Cauldwell",
+          "avatar": "https://robohash.org/rerumautminima.png?size=500x500&set=set1"
+        }
+      },
+
+    "products": {
+        "used": {
+            "-MtxaXdCc45_uiy2Vc6E": {
+                "id": "7d56badd-4bee-4aab-88e1-f5b1293a663a",
+                "fullName": "Alyse Summersby",
+                "avatar": "https://robohash.org/quisquamdoloreserror.png?size=500x500&set=set1"
+              },
+              "-MtxaXdD7gNrifhhdlua": {
+                "id": "652b1cb5-f152-4f0c-a4ea-ce1331bdafc6",
+                "fullName": "Kelly Sivess",
+                "avatar": "https://robohash.org/omnisodioquia.png?size=500x500&set=set1"
+              }
+        },
+
+        "new": {
+            "-MtxaXdCc45_uiy2Vc6E": {
+                "id": "7d56badd-4bee-4aab-88e1-f5b1293a663a",
+                "fullName": "Alyse Summersby",
+                "avatar": "https://robohash.org/quisquamdoloreserror.png?size=500x500&set=set1"
+              },
+              "-MtxaXdD7gNrifhhdlua": {
+                "id": "652b1cb5-f152-4f0c-a4ea-ce1331bdafc6",
+                "fullName": "Kelly Sivess",
+                "avatar": "https://robohash.org/omnisodioquia.png?size=500x500&set=set1"
+              }
+        }
+    },
+
+    "billing": {
+        "-MtxaXdCc45_uiy2Vc6E": {
+            "id": "7d56badd-4bee-4aab-88e1-f5b1293a663a",
+            "fullName": "Alyse Summersby",
+            "avatar": "https://robohash.org/quisquamdoloreserror.png?size=500x500&set=set1"
+          },
+          "-MtxaXdD7gNrifhhdlua": {
+            "id": "652b1cb5-f152-4f0c-a4ea-ce1331bdafc6",
+            "fullName": "Kelly Sivess",
+            "avatar": "https://robohash.org/omnisodioquia.png?size=500x500&set=set1"
+          }
+    }
+}
